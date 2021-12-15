@@ -20,4 +20,4 @@ Our group was required to:
 ##Group Members
 Jacquelyn Mitchell
 Robert Mongin
-Josh Shellton
+Josh Shelton
